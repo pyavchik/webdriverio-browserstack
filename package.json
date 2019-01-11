@@ -1,0 +1,23 @@
+{
+  "name": "webdriverio-browserstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "_old_wdio.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/wdio wdio.conf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "wdio-mocha-framework": "^0.6.4",
+    "wdio-selenium-standalone-service": "0.0.12",
+    "webdriverio": "^4.14.0"
+  },
+  "dependencies": {
+    "wdio-browserstack-service": "^0.1.18"
+  }
+}
