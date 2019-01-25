@@ -46,8 +46,8 @@ exports.config = {
     // Sauce Labs platform configurator - a great tool to configure your capabilities:
     // https://docs.saucelabs.com/reference/platforms-configurator
     //
-    user: 'sergeyratinik1',
-    key: 'Ex88jncmCDnJrtuHK2B9',
+    user: 'user',
+    key: 'key',
 
     capabilities: [{
         'os': 'Windows',
